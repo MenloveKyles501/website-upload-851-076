@@ -1,0 +1,20 @@
+{
+    "parsed_movies": 2000,
+    "unique_m3u8_sources_from_uploaded_js": 20,
+    "html_files": 2015,
+    "detail_pages": 2000,
+    "all_page_movie_cards": 2000,
+    "missing_baidu_html_files": [],
+    "category_counts": {
+        "口碑高分": 200,
+        "热播剧集": 200,
+        "国产精选": 200,
+        "日韩剧场": 200,
+        "欧美剧场": 200,
+        "悬疑犯罪": 200,
+        "喜剧家庭": 200,
+        "科幻奇幻": 200,
+        "动作冒险": 200,
+        "爱情生活": 200
+    }
+}
